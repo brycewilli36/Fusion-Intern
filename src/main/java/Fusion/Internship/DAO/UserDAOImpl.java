@@ -105,7 +105,7 @@ public class UserDAOImpl implements UserDAO{
         String username = user.getUsername();
         String email = user.getEmail();
         Timestamp lastLogin = user.getLastLogin();
-
+//hi
         System.out.println("");
         System.out.println("User Information Displayed Below:");
         System.out.println(" UserID: " + userID);
